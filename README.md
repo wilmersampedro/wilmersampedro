@@ -1,5 +1,7 @@
-### Hi there 👋
+### My Passions: 
+## Coding, Music, Gym, Games
 
+🔭 I’m currently working on my full-stack e-commerce web-application: Squishmazon
 <!--
 **wilmersampedro/wilmersampedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
